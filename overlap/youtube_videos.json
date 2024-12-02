@@ -1,0 +1,83 @@
+{
+    "totalVideos": 11,
+    "totalTranscriptCountOfAllVideos": 1218165,
+    "videos": [
+        {
+            "url": "https://www.youtube.com/watch?v=tRsxLLghL1k",
+            "title": "Elon Musk on xAI: We will win | Lex Fridman Podcast",
+            "descr": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=Kbk9BiPhm7oPlease support this podcast by checking out our sponsors:- Cloaked: https://cloa...",
+            "duration": "27:01",
+            "lengthOfTranscript": 23317
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=ZIyB9e_7a4c",
+            "title": "Andrew Huberman: Focus, Controversy, Politics, and Relationships | Lex Fridman Podcast #435",
+            "descr": "Andrew Huberman is a neuroscientist at Stanford and host of the Huberman Lab Podcast. Please support this podcast by checking out our sponsors:- Eight Sleep:...",
+            "duration": "1:47:19",
+            "lengthOfTranscript": 102402
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=cC1HszE5Hcw",
+            "title": "Sean Kelly: Existentialism, Nihilism, and the Search for Meaning | Lex Fridman Podcast #227",
+            "descr": "Sean Kelly is a philosopher at Harvard specializing in existentialism and the philosophy of mind. Please support this podcast by checking out our sponsors:- ...",
+            "duration": "2:52:58",
+            "lengthOfTranscript": 144237
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=JN3KPFbWCy8",
+            "title": "Elon Musk: War, AI, Aliens, Politics, Physics, Video Games, and Humanity | Lex Fridman Podcast #400",
+            "descr": "Elon Musk is CEO of X, xAI, SpaceX, Tesla, Neuralink, and The Boring Company.Thank you for listening \u2764 Please support this podcast by checking out our sponso...",
+            "duration": "2:16:47",
+            "lengthOfTranscript": 112505
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=wwhTfyX9J34",
+            "title": "Sara Walker: Physics of Life, Time, Complexity, and Aliens | Lex Fridman Podcast #433",
+            "descr": "Sara Walker is an astrobiologist and theoretical physicist. She is the author of a new book titled \"Life as No One Knows It: The Physics of Life's Emergence\"...",
+            "duration": "2:51:59",
+            "lengthOfTranscript": 170765
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=TISMidxdZoc",
+            "title": "Ray Dalio: Money, Power, and the Collapse of Empires | Lex Fridman Podcast #251",
+            "descr": "Ray Dalio is an investor, author, and founder of Bridgewater Associates. Please support this podcast by checking out our sponsors:- Athletic Greens: https://...",
+            "duration": "1:32:38",
+            "lengthOfTranscript": 69591
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=jvqFAi7vkBc",
+            "title": "Sam Altman: OpenAI, GPT-5, Sora, Board Saga, Elon Musk, Ilya, Power & AGI | Lex Fridman Podcast #419",
+            "descr": "Sam Altman is the CEO of OpenAI, the company behind GPT-4, ChatGPT, Sora, and many other state-of-the-art AI technologies. Please support this podcast by che...",
+            "duration": "1:55:10",
+            "lengthOfTranscript": 102958
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=DcWqzZ3I2cY",
+            "title": "Jeff Bezos: Amazon and Blue Origin | Lex Fridman Podcast #405",
+            "descr": "Jeff Bezos is the founder of Amazon and Blue Origin.Thank you for listening \u2764 Please support this podcast by checking out our sponsors:- Notion: https://noti...",
+            "duration": "2:11:32",
+            "lengthOfTranscript": 114783
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=plcc6E-E1uU",
+            "title": "Avi Loeb: Aliens, Black Holes, and the Mystery of the Oumuamua | Lex Fridman Podcast #154",
+            "descr": "Avi Loeb is an astrophysicist at Harvard. Please support this podcast by checking out our sponsors:- Zero Fasting: https://go.zerofasting.com/s/lex-promo to ...",
+            "duration": "2:43:51",
+            "lengthOfTranscript": 143394
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=gk4tEO4jDUM",
+            "title": "Joe Rogan: Comedy, Controversy, Aliens, UFOs, Putin, CIA, and Freedom | Lex Fridman Podcast #300",
+            "descr": "Joe Rogan is a comedian, UFC commentator, and host of the Joe Rogan Experience. Please support this podcast by checking out our sponsors:- Theragun: https://...",
+            "duration": "1:41:21",
+            "lengthOfTranscript": 94977
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=WxfA1OSev4c",
+            "title": "Alex Filippenko: Supernovae, Dark Energy, Aliens & the Expanding Universe | Lex Fridman Podcast #137",
+            "descr": "Alex Filippenko is an astrophysicist and professor of astronomy at Berkeley. Please support this podcast by checking out our sponsors:- Neuro: https://www.ge...",
+            "duration": "2:35:48",
+            "lengthOfTranscript": 139236
+        }
+    ]
+}

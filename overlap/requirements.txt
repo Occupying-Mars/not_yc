@@ -1,0 +1,9 @@
+uuid
+qdrant-client
+python-dotenv
+openai
+requests
+youtubesearchpython
+youtube-transcript-api
+beautifulsoup4
+streamlit
